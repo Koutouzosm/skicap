@@ -7,7 +7,8 @@
 }
 
 .fill-in{
-    height: 400px;
+    height: 375px;
+    margin-bottom: auto;
 }
 
 .navi{
@@ -24,4 +25,9 @@ hr {
     background-color: green;
     border: none;
     width: 70px;
+}
+
+.cont{
+    background-color: lavender;
+    height: 200px;
 }
