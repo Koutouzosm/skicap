@@ -17,3 +17,11 @@
 .brandimg{
     margin: 50px;
 }
+
+hr {
+    height: 1px;
+    color: green;
+    background-color: green;
+    border: none;
+    width: 70px;
+}
