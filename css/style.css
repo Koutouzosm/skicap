@@ -1,0 +1,19 @@
+.jumbotron{
+    background: url("../images/newyork.jpg") no-repeat center center; 
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+}
+
+.fill-in{
+    height: 400px;
+}
+
+.navi{
+    height: 90px;
+}
+
+.brandimg{
+    margin: 50px;
+}
