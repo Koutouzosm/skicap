@@ -21,13 +21,13 @@
 
 hr {
     height: 1px;
-    color: green;
-    background-color: green;
+    color: black;
+    background-color: black;
     border: none;
     width: 70px;
 }
 
 .cont{
-    background-color: lavender;
+    background-color: aqua;
     height: 200px;
 }
