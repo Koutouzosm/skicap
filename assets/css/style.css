@@ -6,6 +6,10 @@
     background-size: 100% 100%;
 }
 
+.navco{
+    background-color: lightgray;
+}
+
 .fill-in{
     height: 375px;
     margin-bottom: auto;
@@ -29,5 +33,13 @@ hr {
 
 .cont{
     background-color: aqua;
-    height: 200px;
+    height: 165px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+.cleft{
+    margin-left: px;
 }
