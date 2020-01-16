@@ -40,6 +40,10 @@ hr {
     font-size: 20px;
 }
 
-.cleft{
-    margin-left: px;
+.constrip{
+    background-color: aqua;
+    height: 90px;
+    padding-left: 150px;
+    padding-top: 20px;
+    font-size: xx-large;
 }
