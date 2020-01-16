@@ -1,9 +1,23 @@
 .jumbotron{
+    padding-top: 0;
+}
+
+.jumbo-home{
     background: url("../images/newyork.jpg") no-repeat center center; 
     -webkit-background-size: 100% 100%;
     -moz-background-size: 100% 100%;
     -o-background-size: 100% 100%;
     background-size: 100% 100%;
+}
+
+.jumbo-contact{
+    background: url("../images/contactheader.jpg") no-repeat center center; 
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+    height: 500px;
+    
 }
 
 .navco{
@@ -46,4 +60,5 @@ hr {
     padding-left: 150px;
     padding-top: 20px;
     font-size: xx-large;
+    opacity: 50%;
 }
